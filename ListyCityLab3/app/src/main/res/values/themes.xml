@@ -1,0 +1,19 @@
+<resources>
+    <style name="Base.Theme.ListyCityLab3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_500</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.ListyCityLab3" parent="Base.Theme.ListyCityLab3" />
+
+    <!-- Add this custom FAB style -->
+    <style name="RoundFAB" parent="Widget.Material3.FloatingActionButton.Primary">
+        <item name="shapeAppearanceOverlay">@style/RoundedFABShape</item>
+    </style>
+
+    <style name="RoundedFABShape" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
