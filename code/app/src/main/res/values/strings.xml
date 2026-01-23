@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">ListyCity</string>
+    <string name="app_name">ListyCityLab3</string>
+    <string name="toolbar_title">ListyCity</string>
+    <string name="city_placeholder">City</string>
+    <string name="province_placeholder">Province</string>
+    <string name="city_hint">Enter city name</string>
+    <string name="province_hint">Enter province</string>
+    <string name="add_city_title">Add a city</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add new city</string>
+    <color name="magenta_pink">#E91E63</color>
 </resources>
