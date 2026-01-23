@@ -2,11 +2,11 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Lab 3 Participation Excercise
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| NA           | NA        |
 | `<Add more>` | `<CCID>`  |
